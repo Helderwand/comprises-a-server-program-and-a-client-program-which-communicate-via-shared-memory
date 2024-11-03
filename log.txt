@@ -1,0 +1,26 @@
+File downloaded successfullyFailed to open source fileupload <file>
+File uploaded successfullyFile downloaded successfullyFile uploaded successfullyFailed to open source fileFile downloaded successfullyarchServer <fileName>.tar
+Server files archived successfullyServer files archived successfullyAvailable commands are: help, list, readF, writeT, upload, download, archServer, killServer, quitAvailable commands are: help, list, readF, writeT, upload, download, archServer, killServer, quitAvailable commands are: help, list, readF, writeT, upload, download, archServer, killServer, quitserver
+<file>
+makefile
+server.c
+log.txt
+client.c
+client
+Ekran görüntüsü 2024-05-04 22-42-24.png
+server.pid
+Ekran görüntüsü 2024-05-04 22-42-20.png
+Ekran görüntüsü 2024-05-04 22-42-25.png
+Ekran görüntüsü 2024-05-04 22-42-18.png
+Quitting serverAvailable commands are: help, list, readF, writeT, upload, download, archServer, killServer, quitserver
+<file>
+makefile
+server.c
+log.txt
+client.c
+client
+Ekran görüntüsü 2024-05-04 22-42-24.png
+server.pid
+Ekran görüntüsü 2024-05-04 22-42-20.png
+Ekran görüntüsü 2024-05-04 22-42-25.png
+Ekran görüntüsü 2024-05-04 22-42-18.png
